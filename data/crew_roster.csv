@@ -1,0 +1,501 @@
+employee_id,full_name,crew_type,base,hire_date,years_of_service,aircraft_qual,employment_status,contract_type,monthly_hour_cap
+10001,Dorothy Nguyen,First Officer,ORD,2022-03-11,1.8,B737,Active,Full-time,100
+10002,Amy Cruz,Captain,ORD,2007-11-12,16.2,"B787, B767",Active,Full-time,100
+10003,Linda Morgan,First Officer,ORD,2018-02-04,5.9,"B757, A320, A321",Active,Full-time,100
+10004,Timothy Wright,Flight Attendant,ORD,2021-06-05,2.6,B737,Active,Full-time,90
+10005,Emily Watson,Senior FA,ORD,2004-05-14,19.6,B767,Training,Full-time,90
+10006,Jason White,Senior FA,ORD,2015-12-08,8.1,A321,Active,Full-time,90
+10007,Nicholas Hernandez,First Officer,ORD,2017-07-21,6.5,"A320, B757",Active,Full-time,100
+10008,Emma Lopez,First Officer,ORD,2023-03-12,0.8,"B737, A320",Active,Full-time,100
+10009,James Jones,First Officer,ORD,2019-08-30,4.3,"B757, A320",Active,Full-time,100
+10010,Nicholas Phillips,Flight Attendant,ORD,2020-06-06,3.6,A321,Active,Full-time,90
+10011,Ashley Gomez,Flight Attendant,ORD,2021-06-18,2.5,B787,Active,Full-time,90
+10012,Angela Smith,Flight Attendant,ORD,2017-03-06,6.8,B737,Active,Full-time,90
+10013,Benjamin Rogers,First Officer,ORD,2012-04-11,11.7,A320,Active,Full-time,100
+10014,Cynthia Hughes,First Officer,ORD,2020-01-20,4.0,"B767, A321",Active,Full-time,100
+10015,Kimberly Howard,First Officer,ORD,2019-04-02,4.8,A321,Active,Part-time,100
+10016,Karen Wood,Captain,ORD,2007-09-11,16.3,B737,Active,Full-time,100
+10017,Kenneth Price,First Officer,ORD,2009-01-23,14.9,"B737, B757",Training,Full-time,100
+10018,Karen Morgan,Senior FA,ORD,2003-12-27,20.0,A320,Leave,Full-time,90
+10019,Emma Scott,First Officer,ORD,2014-01-17,10.0,B737,Leave,Full-time,100
+10020,Anna Collins,Senior FA,ORD,2008-12-01,15.1,B757,Active,Full-time,90
+10021,Margaret Robinson,Flight Attendant,ORD,2019-01-09,5.0,B787,Active,Full-time,90
+10022,Shirley Ward,Senior FA,ORD,2012-01-02,12.0,A320,Active,Full-time,90
+10023,Joshua White,First Officer,ORD,1998-08-18,25.4,B767,Leave,Full-time,100
+10024,Jonathan Moore,First Officer,ORD,2019-02-15,4.9,"B757, A321",Active,Full-time,100
+10025,Paul Rodriguez,Flight Attendant,ORD,2018-04-22,5.7,B737,Leave,Full-time,90
+10026,Amy Miller,Flight Attendant,ORD,2017-05-12,6.6,A320,Active,Full-time,90
+10027,Nicholas Turner,Flight Attendant,ORD,2016-06-15,7.6,B757,Active,Full-time,90
+10028,Laura Morgan,Flight Attendant,ORD,2013-03-13,10.8,B767,Active,Full-time,90
+10029,Karen Gonzalez,First Officer,ORD,2020-10-27,3.2,"B767, B737",Active,Full-time,100
+10030,Angela Thompson,Senior FA,ORD,2004-09-14,19.3,B757,Active,Full-time,90
+10031,Shirley Reed,Flight Attendant,ORD,2020-04-19,3.7,B787,Active,Full-time,90
+10032,Stephen Campbell,Flight Attendant,ORD,2018-05-16,5.6,A321,Active,Full-time,90
+10033,Stephen King,Captain,ORD,2007-01-14,17.0,B787,Active,Full-time,100
+10034,Betty Lopez,First Officer,ORD,2015-05-15,8.6,"A320, B757, B767",Active,Full-time,100
+10035,Deborah Johnson,First Officer,ORD,2021-01-10,3.0,"B787, A320, B757",Active,Full-time,100
+10036,William Howard,Captain,ORD,1993-03-18,30.8,B737,Active,Full-time,100
+10037,Shirley Carter,Flight Attendant,ORD,2016-08-30,7.3,B767,Active,Full-time,90
+10038,Dorothy Taylor,Flight Attendant,ORD,2019-09-07,4.3,B757,Active,Full-time,90
+10039,Ashley James,Flight Attendant,ORD,2023-07-03,0.5,B757,Active,Full-time,90
+10040,Jason Thompson,Flight Attendant,ORD,2019-04-19,4.7,A320,Active,Full-time,90
+10041,Amanda Rodriguez,Flight Attendant,ORD,2017-04-09,6.7,B767,Active,Full-time,90
+10042,George Brown,Senior FA,ORD,2012-06-19,11.5,A320,Active,Part-time,90
+10043,Joseph Cook,First Officer,ORD,2018-01-19,6.0,"A321, B737",Active,Full-time,100
+10044,Cynthia Allen,Flight Attendant,ORD,2016-01-22,8.0,B787,Active,Full-time,90
+10045,Donna Jackson,First Officer,ORD,2016-08-18,7.4,A320,Active,Part-time,100
+10046,Jessica Watson,Senior FA,ORD,1991-07-17,32.5,B767,Leave,Full-time,90
+10047,Amy Roberts,Senior FA,ORD,2007-04-16,16.7,A321,Active,Full-time,90
+10048,Andrew Garcia,First Officer,ORD,2022-07-31,1.4,B767,Active,Full-time,100
+10049,Paul Bell,Senior FA,ORD,2013-12-14,10.1,B787,Active,Full-time,90
+10050,Jeffrey Garcia,Flight Attendant,ORD,2021-01-11,3.0,B767,Active,Full-time,90
+10051,Charles James,Flight Attendant,ORD,2011-02-17,12.9,B757,Active,Full-time,90
+10052,Robert Roberts,First Officer,ORD,2021-08-15,2.4,"B737, B787, A321",Active,Full-time,100
+10053,Sarah Gomez,Senior FA,ORD,2014-09-18,9.3,B787,Active,Full-time,90
+10054,Sharon Nguyen,Flight Attendant,ORD,2018-01-17,6.0,B767,Active,Part-time,90
+10055,Charles Watson,Flight Attendant,ORD,2015-03-18,8.8,A321,Active,Full-time,90
+10056,Scott Thomas,Flight Attendant,ORD,2022-11-20,1.1,B757,Active,Full-time,90
+10057,Edward Jackson,Flight Attendant,ORD,2012-09-25,11.3,B757,Active,Full-time,90
+10058,Samantha Hall,Senior FA,ORD,2016-03-05,7.8,B767,Active,Full-time,90
+10059,Sharon Reyes,First Officer,ORD,2022-07-16,1.5,"B757, A320",Active,Full-time,100
+10060,Robert Thompson,Flight Attendant,ORD,2019-02-21,4.9,A320,Active,Full-time,90
+10061,Ashley Watson,Flight Attendant,ORD,2018-10-13,5.2,B767,Active,Full-time,90
+10062,Emily Davis,Flight Attendant,ORD,2022-12-09,1.1,A321,Active,Full-time,90
+10063,Cynthia Rogers,Flight Attendant,ORD,2018-02-28,5.8,A320,Active,Full-time,90
+10064,Jeffrey Rodriguez,Senior FA,ORD,2016-08-22,7.4,B737,Active,Full-time,90
+10065,Edward Cooper,Captain,ORD,2006-03-24,17.8,B737,Active,Part-time,100
+10066,Nancy Lopez,Senior FA,ORD,1993-11-19,30.1,B737,Active,Full-time,90
+10067,Jennifer Jones,Captain,ORD,1997-11-11,26.2,B757,Active,Full-time,100
+10068,Rebecca James,Captain,ORD,2013-02-17,10.9,"A320, B737",Active,Full-time,100
+10069,Shirley Richardson,Senior FA,ORD,2004-10-28,19.2,B787,Active,Full-time,90
+10070,Amanda Moore,Senior FA,ORD,2004-10-21,19.2,B737,Active,Full-time,90
+10071,Anthony Taylor,Flight Attendant,ORD,2016-02-09,7.9,A321,Active,Full-time,90
+10072,Shirley Anderson,Senior FA,ORD,2004-04-26,19.7,A321,Active,Full-time,90
+10073,Mark Stewart,Senior FA,ORD,2019-05-06,4.7,A321,Active,Full-time,90
+10074,Thomas Lewis,Captain,ORD,2005-07-22,18.5,"B737, B757",Active,Full-time,100
+10075,Donna Sanchez,Flight Attendant,ORD,2021-10-06,2.2,B767,Active,Full-time,90
+10076,Amy Nelson,First Officer,ORD,2022-01-31,1.9,"A321, B737",Active,Full-time,100
+10077,Steven Rodriguez,Senior FA,ORD,2012-09-06,11.3,B767,Active,Full-time,90
+10078,James Reed,Flight Attendant,ORD,2018-04-05,5.7,A320,Active,Full-time,90
+10079,Andrew Reed,First Officer,ORD,2018-08-10,5.4,"A320, B767",Active,Full-time,100
+10080,Sharon Cox,Flight Attendant,ORD,2022-12-07,1.1,B757,Active,Full-time,90
+10081,Ronald Martin,Captain,ORD,2020-10-14,3.2,"B787, B737",Active,Part-time,100
+10082,George Robinson,Flight Attendant,ORD,2000-12-17,23.1,B737,Active,Full-time,90
+10083,Michelle Turner,Senior FA,ORD,2009-06-28,14.5,B787,Active,Full-time,90
+10084,Kimberly Roberts,Captain,ORD,2008-01-19,16.0,B737,Active,Part-time,100
+10085,Jonathan Turner,Senior FA,ORD,2011-04-23,12.7,B757,Active,Full-time,90
+10086,Stephanie Price,Flight Attendant,ORD,2020-03-30,3.8,A321,Active,Full-time,90
+10087,Stephen Martin,Captain,ORD,2011-03-02,12.8,A320,Active,Part-time,100
+10088,Betty Hughes,First Officer,ORD,2020-07-30,3.4,"B767, A320",Active,Part-time,100
+10089,Anthony Wood,Senior FA,ORD,2002-05-02,21.7,A320,Active,Full-time,90
+10090,Helen Clark,Captain,ORD,2016-03-17,7.8,B767,Active,Full-time,100
+10091,Sandra Cooper,Senior FA,ORD,2009-03-28,14.8,B787,Active,Part-time,90
+10092,Jacob Hill,Flight Attendant,ORD,2020-03-27,3.8,A320,Active,Part-time,90
+10093,Angela Wood,Flight Attendant,ORD,2018-03-13,5.8,B767,Active,Full-time,90
+10094,Edward Lopez,Flight Attendant,ORD,2019-02-21,4.9,B787,Active,Full-time,90
+10095,Katherine Davis,First Officer,ORD,2008-07-16,15.5,"A320, B767, B787",Active,Full-time,100
+10096,Timothy Young,Flight Attendant,ORD,2015-03-14,8.8,A321,Inactive,Part-time,90
+10097,David Mitchell,Flight Attendant,ORD,2014-06-21,9.5,B767,Active,Full-time,90
+10098,Amy Hall,Captain,ORD,2000-02-23,23.9,A320,Active,Full-time,100
+10099,Karen Adams,Captain,ORD,2011-11-17,12.1,B767,Active,Full-time,100
+10100,Deborah Lewis,Senior FA,ORD,2015-05-29,8.6,A320,Training,Full-time,90
+10101,Michael Bell,Flight Attendant,ORD,2023-07-03,0.5,B757,Active,Full-time,90
+10102,Ronald Howard,First Officer,ORD,2020-01-30,3.9,B757,Inactive,Full-time,100
+10103,Angela Gray,First Officer,ORD,2021-07-08,2.5,"B737, A321",Leave,Full-time,100
+10104,Kevin Williams,Senior FA,ORD,2010-06-01,13.6,A320,Active,Full-time,90
+10105,Andrew Roberts,Senior FA,ORD,2009-07-09,14.5,A320,Inactive,Full-time,90
+10106,Jonathan Lewis,Flight Attendant,ORD,2004-05-25,19.6,B767,Active,Full-time,90
+10107,Benjamin Nguyen,Senior FA,ORD,2013-06-13,10.6,B787,Training,Full-time,90
+10108,Angela Cook,First Officer,ORD,2019-02-18,4.9,B757,Active,Part-time,100
+10109,Jacob Rogers,Flight Attendant,ORD,2008-05-06,15.7,B787,Active,Full-time,90
+10110,Steven Thompson,Captain,ORD,2015-09-21,8.3,B757,Training,Full-time,100
+10111,Joseph Rivera,Captain,ORD,2013-10-26,10.2,B767,Active,Full-time,100
+10112,Nicholas Ramirez,First Officer,ORD,2021-12-11,2.1,B787,Active,Full-time,100
+10113,Margaret Taylor,Flight Attendant,ORD,2018-05-20,5.6,B737,Active,Full-time,90
+10114,Donald Hernandez,Flight Attendant,ORD,2012-10-21,11.2,B787,Active,Full-time,90
+10115,Linda Hughes,Senior FA,ORD,2017-02-09,6.9,B737,Active,Full-time,90
+10116,Cynthia Lee,Captain,ORD,2009-04-23,14.7,A321,Active,Part-time,100
+10117,Michelle Anderson,Senior FA,ORD,2001-09-19,22.3,B757,Active,Full-time,90
+10118,Jason Davis,Flight Attendant,ORD,2017-07-04,6.5,B737,Active,Full-time,90
+10119,Deborah Anderson,Flight Attendant,ORD,2020-01-15,4.0,A321,Leave,Full-time,90
+10120,Emma Hernandez,Flight Attendant,ORD,2021-03-11,2.8,B787,Active,Full-time,90
+10121,Richard Hall,Senior FA,ORD,1996-03-16,27.8,B737,Training,Full-time,90
+10122,Paul Watson,Flight Attendant,ORD,2014-05-31,9.6,A321,Active,Full-time,90
+10123,Sandra Perez,Flight Attendant,ORD,2014-12-18,9.0,A321,Active,Full-time,90
+10124,Kimberly Green,First Officer,ORD,2014-07-15,9.5,"B737, B757",Active,Full-time,100
+10125,Katherine Brown,Flight Attendant,ORD,2016-07-19,7.5,B767,Active,Full-time,90
+10126,Joseph Harris,Flight Attendant,ATL,2019-05-21,4.6,B737,Active,Full-time,90
+10127,Melissa Price,Senior FA,ATL,1998-12-07,25.1,B757,Active,Full-time,90
+10128,William Bennett,Captain,ATL,2016-04-19,7.7,"A321, B737",Active,Full-time,100
+10129,Edward Scott,Captain,ATL,2001-06-15,22.6,B737,Active,Full-time,100
+10130,Lisa Flores,Captain,ATL,1998-04-26,25.7,"B737, A320",Active,Full-time,100
+10131,Maria Torres,Senior FA,ATL,2017-03-08,6.8,B767,Active,Full-time,90
+10132,Ashley Gomez,Senior FA,ATL,2017-07-26,6.4,B767,Active,Full-time,90
+10133,Jonathan Wilson,Senior FA,ATL,2010-02-21,13.9,B757,Active,Full-time,90
+10134,Joshua Campbell,First Officer,ATL,2007-01-05,17.0,B787,Active,Full-time,100
+10135,Nancy James,Flight Attendant,ATL,2020-12-16,3.0,B757,Active,Full-time,90
+10136,Jessica Martin,Captain,ATL,2005-01-23,19.0,B757,Active,Full-time,100
+10137,Brian Roberts,Senior FA,ATL,2009-07-14,14.5,B787,Active,Full-time,90
+10138,Patricia Lewis,First Officer,ATL,2022-02-05,1.9,B737,Training,Full-time,100
+10139,Charles Sanchez,Flight Attendant,ATL,2018-08-23,5.4,A321,Training,Full-time,90
+10140,Stephanie Ward,Senior FA,ATL,2012-05-08,11.7,B757,Training,Full-time,90
+10141,Stephanie Gonzalez,Flight Attendant,ATL,2018-09-27,5.3,B767,Training,Full-time,90
+10142,Matthew Brooks,Flight Attendant,ATL,2009-10-18,14.2,B737,Leave,Full-time,90
+10143,Paul Carter,First Officer,ATL,2017-01-13,7.0,"B767, B787",Active,Full-time,100
+10144,Stephanie Gomez,Flight Attendant,ATL,2020-02-02,3.9,B767,Active,Full-time,90
+10145,Thomas Nelson,Flight Attendant,ATL,2019-02-20,4.9,B767,Active,Full-time,90
+10146,Thomas Harris,Flight Attendant,ATL,2016-05-01,7.7,B757,Leave,Full-time,90
+10147,Sharon Clark,Flight Attendant,ATL,2014-12-03,9.1,B767,Active,Full-time,90
+10148,Scott Miller,Senior FA,ATL,1989-08-23,34.4,A320,Active,Full-time,90
+10149,William Collins,Flight Attendant,ATL,2014-03-06,9.8,B767,Leave,Full-time,90
+10150,Amanda Richardson,Flight Attendant,ATL,2018-07-04,5.5,B767,Active,Full-time,90
+10151,Nicole Moore,Flight Attendant,ATL,2020-06-28,3.5,B737,Active,Full-time,90
+10152,Stephanie Torres,Flight Attendant,ATL,2019-11-23,4.1,A321,Active,Full-time,90
+10153,Maria Bailey,Flight Attendant,ATL,2022-03-22,1.8,B787,Active,Full-time,90
+10154,Kimberly Hill,Captain,ATL,2014-02-08,9.9,"A320, B787",Active,Full-time,100
+10155,Kevin Howard,Flight Attendant,ATL,2009-08-06,14.4,B757,Active,Full-time,90
+10156,Pamela Johnson,Flight Attendant,ATL,2016-11-03,7.2,B737,Active,Full-time,90
+10157,Kathleen Scott,Senior FA,ATL,2003-04-17,20.7,B787,Active,Full-time,90
+10158,Karen Robinson,Senior FA,ATL,2000-07-12,23.5,A320,Active,Full-time,90
+10159,Margaret Price,First Officer,ATL,2015-10-22,8.2,B757,Active,Full-time,100
+10160,Anna Johnson,Flight Attendant,ATL,2017-10-05,6.2,B787,Active,Full-time,90
+10161,Barbara Wright,Senior FA,ATL,2003-01-05,21.0,A321,Training,Full-time,90
+10162,Dorothy James,Flight Attendant,ATL,2009-03-13,14.8,A321,Active,Full-time,90
+10163,Samantha Martin,Flight Attendant,ATL,2007-07-07,16.5,B757,Active,Full-time,90
+10164,Sharon Williams,Flight Attendant,ATL,2018-07-07,5.5,A321,Active,Full-time,90
+10165,George Morgan,Senior FA,ATL,2005-03-11,18.8,B767,Active,Full-time,90
+10166,Maria Morgan,Flight Attendant,ATL,2018-01-04,6.0,B787,Active,Full-time,90
+10167,Cynthia Reyes,First Officer,ATL,2021-11-24,2.1,"A320, B767",Inactive,Full-time,100
+10168,Sharon Phillips,Senior FA,ATL,2012-12-09,11.1,A320,Active,Full-time,90
+10169,Mark Wilson,Flight Attendant,ATL,2020-06-07,3.6,B737,Active,Full-time,90
+10170,Joseph Evans,Captain,ATL,2007-03-18,16.8,B737,Active,Full-time,100
+10171,Jeffrey Sanchez,Flight Attendant,ATL,2019-05-23,4.6,B787,Active,Full-time,90
+10172,Shirley Taylor,Captain,ATL,2012-01-15,12.0,"B787, B767",Active,Part-time,100
+10173,Amy Lee,Flight Attendant,ATL,2016-07-16,7.5,B787,Active,Full-time,90
+10174,Melissa Bell,Senior FA,ATL,2019-12-10,4.1,A321,Leave,Full-time,90
+10175,Michael Martin,Flight Attendant,ATL,2019-05-17,4.6,B757,Active,Full-time,90
+10176,Patricia Bailey,Flight Attendant,ATL,2022-08-13,1.4,B757,Active,Full-time,90
+10177,Ronald Scott,Flight Attendant,ATL,2021-11-25,2.1,B757,Active,Full-time,90
+10178,Joseph Evans,Flight Attendant,ATL,2016-02-02,7.9,B767,Active,Part-time,90
+10179,Justin Harris,Senior FA,ATL,2001-03-29,22.8,B787,Active,Full-time,90
+10180,Kimberly Hill,First Officer,ATL,2023-07-03,0.5,B737,Active,Part-time,100
+10181,William Thompson,Senior FA,ATL,2003-03-24,20.8,B767,Training,Full-time,90
+10182,Sharon Clark,Flight Attendant,ATL,2018-04-09,5.7,B767,Active,Full-time,90
+10183,Nicholas Jackson,Senior FA,ATL,2016-03-29,7.8,B787,Active,Full-time,90
+10184,Shirley Martinez,Captain,ATL,2008-11-08,15.2,B767,Active,Part-time,100
+10185,Kathleen Collins,Flight Attendant,ATL,2021-08-22,2.4,A321,Active,Full-time,90
+10186,Jennifer White,Senior FA,ATL,2004-09-22,19.3,A320,Active,Full-time,90
+10187,Nancy Taylor,First Officer,ATL,2013-04-13,10.7,"B737, B767",Active,Full-time,100
+10188,Steven Morgan,Flight Attendant,ATL,2004-08-08,19.4,B737,Active,Full-time,90
+10189,Steven Bailey,Senior FA,ATL,2011-07-14,12.5,A321,Active,Full-time,90
+10190,Ryan Hall,Flight Attendant,ATL,2021-10-02,2.3,A321,Active,Full-time,90
+10191,Gary Martinez,Captain,ATL,2011-07-28,12.4,"B757, B737",Training,Full-time,100
+10192,Shirley Torres,First Officer,ATL,2020-10-13,3.2,B737,Active,Full-time,100
+10193,Andrew Smith,Flight Attendant,ATL,2015-05-21,8.6,B737,Active,Part-time,90
+10194,William Wright,Flight Attendant,ATL,2020-08-05,3.4,B767,Active,Full-time,90
+10195,Cynthia Price,First Officer,ATL,2020-03-24,3.8,"B767, A321, A320",Active,Full-time,100
+10196,Daniel Adams,Senior FA,ATL,2009-03-26,14.8,B737,Active,Part-time,90
+10197,Joshua Carter,Senior FA,ATL,2015-07-25,8.4,B767,Active,Full-time,90
+10198,Paul Hughes,Flight Attendant,ATL,2018-09-09,5.3,B767,Active,Full-time,90
+10199,Pamela Cox,Senior FA,ATL,2007-09-04,16.3,A321,Active,Full-time,90
+10200,Helen Flores,Senior FA,ATL,2015-05-31,8.6,B787,Active,Full-time,90
+10201,Thomas Reyes,Captain,ATL,2011-02-06,12.9,"B757, A321, B787",Active,Full-time,100
+10202,Robert Richardson,Senior FA,ATL,2011-11-19,12.1,A321,Active,Full-time,90
+10203,Jessica Watson,First Officer,ATL,2016-10-02,7.3,"B787, A321",Active,Part-time,100
+10204,Robert Clark,Captain,ATL,2000-11-11,23.2,B787,Active,Full-time,100
+10205,Christopher Young,First Officer,ATL,2021-04-10,2.7,B757,Active,Full-time,100
+10206,Jacob Clark,Captain,ATL,2014-05-14,9.6,"B767, A320",Active,Part-time,100
+10207,Gary Rodriguez,Flight Attendant,ATL,2013-02-24,10.9,A321,Active,Full-time,90
+10208,Helen Robinson,Flight Attendant,ATL,2008-03-26,15.8,A321,Active,Full-time,90
+10209,Kathleen Brooks,Captain,ATL,2007-08-28,16.4,"A320, B757",Leave,Full-time,100
+10210,Carol Ramirez,Flight Attendant,ATL,2022-11-17,1.1,A320,Active,Full-time,90
+10211,Kathleen Harris,Flight Attendant,ATL,2012-06-24,11.5,B757,Active,Full-time,90
+10212,Benjamin Price,First Officer,ATL,2020-12-20,3.0,B757,Active,Full-time,100
+10213,Emma Cooper,Flight Attendant,ATL,2019-09-18,4.3,B737,Active,Full-time,90
+10214,Ashley Hall,First Officer,ATL,2020-10-20,3.2,"A320, A321, B757",Active,Full-time,100
+10215,Michelle Evans,Senior FA,ATL,2010-05-18,13.6,A321,Active,Full-time,90
+10216,Kevin Howard,Flight Attendant,ATL,2019-10-28,4.2,B787,Active,Full-time,90
+10217,Stephanie Robinson,Captain,ATL,2011-10-28,12.2,"B757, B787, B767",Active,Full-time,100
+10218,Justin Peterson,Flight Attendant,ATL,2014-12-05,9.1,B757,Active,Full-time,90
+10219,Timothy Anderson,Captain,ATL,2013-07-16,10.5,B787,Active,Full-time,100
+10220,Ashley Brown,Flight Attendant,ATL,2019-07-09,4.5,B757,Active,Full-time,90
+10221,Barbara Harris,First Officer,ATL,2014-05-03,9.7,"A321, B737",Active,Full-time,100
+10222,Andrew Mitchell,Captain,ATL,2009-03-16,14.8,B787,Active,Full-time,100
+10223,Kenneth Carter,First Officer,ATL,2020-08-11,3.4,"B767, A320",Active,Full-time,100
+10224,Kenneth Gonzalez,First Officer,ATL,2020-09-22,3.3,"B757, B767",Leave,Full-time,100
+10225,Helen Richardson,Flight Attendant,ATL,2019-06-10,4.6,A320,Active,Full-time,90
+10226,Dorothy Campbell,Senior FA,ATL,2004-09-27,19.3,A320,Active,Full-time,90
+10227,Ashley Flores,Captain,ATL,1998-08-24,25.4,"A321, B767",Active,Full-time,100
+10228,Edward Wood,Flight Attendant,ATL,2016-10-01,7.3,A320,Active,Full-time,90
+10229,Carol Johnson,Flight Attendant,ATL,2019-08-18,4.4,A321,Active,Full-time,90
+10230,Betty Nguyen,Captain,ATL,2017-09-23,6.3,"B767, A320",Active,Full-time,100
+10231,Dorothy Morgan,Senior FA,ATL,2013-05-07,10.7,B787,Active,Full-time,90
+10232,Kenneth King,First Officer,ATL,2021-10-22,2.2,"A320, A321",Active,Full-time,100
+10233,Andrew Nelson,Captain,ATL,2019-03-09,4.8,B757,Active,Full-time,100
+10234,Rebecca Ward,First Officer,ATL,2017-02-12,6.9,"B767, B737",Active,Full-time,100
+10235,Edward Roberts,First Officer,ATL,2011-11-30,12.1,"B737, B787",Active,Full-time,100
+10236,Justin Lewis,First Officer,ATL,2019-02-28,4.8,"B787, B767",Leave,Full-time,100
+10237,Jason Turner,First Officer,ATL,2022-04-27,1.7,B757,Active,Full-time,100
+10238,Nicholas White,First Officer,ATL,2016-08-06,7.4,"B757, B737",Active,Full-time,100
+10239,Betty Jackson,Senior FA,ATL,2004-03-04,19.8,B787,Inactive,Part-time,90
+10240,Daniel Hernandez,First Officer,ATL,2020-08-06,3.4,"A321, A320",Active,Full-time,100
+10241,Sandra Mitchell,Flight Attendant,ATL,2019-05-28,4.6,A321,Training,Part-time,90
+10242,Edward Evans,Captain,ATL,2010-02-25,13.9,"A320, A321",Active,Part-time,100
+10243,George Hughes,Senior FA,ATL,1997-09-01,26.4,B757,Active,Full-time,90
+10244,Katherine Perez,Flight Attendant,ATL,2022-01-04,2.0,B757,Active,Part-time,90
+10245,Betty Wright,Flight Attendant,ATL,2021-06-29,2.5,B767,Active,Full-time,90
+10246,Amy Wood,First Officer,ATL,2020-10-21,3.2,"B757, A320",Active,Part-time,100
+10247,Scott Richardson,Flight Attendant,ATL,2014-11-26,9.1,A321,Active,Full-time,90
+10248,Cynthia Walker,Captain,ATL,2018-05-21,5.6,"B737, B767",Active,Full-time,100
+10249,Dorothy Evans,First Officer,ATL,2018-02-18,5.9,"A320, A321",Active,Full-time,100
+10250,Rebecca Ramirez,Captain,ATL,2012-02-16,11.9,B737,Active,Full-time,100
+10251,Steven James,First Officer,DFW,2022-09-03,1.3,B757,Active,Full-time,100
+10252,Michelle Hughes,Senior FA,DFW,2006-04-10,17.7,A320,Active,Full-time,90
+10253,Christopher Rodriguez,Captain,DFW,2004-06-11,19.6,B767,Active,Full-time,100
+10254,Charles Cook,Senior FA,DFW,2002-10-24,21.2,A320,Training,Full-time,90
+10255,Paul White,Captain,DFW,2013-06-09,10.6,"A321, B787, A320",Active,Full-time,100
+10256,Stephanie Ramirez,Flight Attendant,DFW,2018-08-27,5.4,B737,Inactive,Full-time,90
+10257,Joseph Walker,Senior FA,DFW,2008-08-21,15.4,A321,Active,Full-time,90
+10258,Patricia Miller,Flight Attendant,DFW,2014-06-14,9.6,B757,Active,Full-time,90
+10259,Joseph Murphy,Captain,DFW,2011-09-11,12.3,"B737, B767, B757",Active,Full-time,100
+10260,Sarah Martinez,Senior FA,DFW,2008-06-07,15.6,A320,Active,Full-time,90
+10261,Eric Ramirez,Captain,DFW,1999-02-04,24.9,B757,Leave,Full-time,100
+10262,Anthony Allen,First Officer,DFW,2020-07-12,3.5,"A320, B737",Active,Full-time,100
+10263,Edward Wood,Flight Attendant,DFW,2020-03-13,3.8,B757,Active,Part-time,90
+10264,Ashley Gray,Flight Attendant,DFW,2017-06-05,6.6,B757,Active,Full-time,90
+10265,Rebecca Brooks,Flight Attendant,DFW,2013-01-30,10.9,A321,Active,Part-time,90
+10266,Richard Gray,Senior FA,DFW,2011-01-13,13.0,B767,Active,Full-time,90
+10267,Laura Morgan,Flight Attendant,DFW,2021-02-14,2.9,B757,Training,Full-time,90
+10268,Michelle Clark,Flight Attendant,DFW,2018-05-03,5.7,B787,Active,Full-time,90
+10269,Samantha Watson,Flight Attendant,DFW,2020-05-06,3.7,B767,Active,Full-time,90
+10270,Richard Ramirez,First Officer,DFW,2003-11-18,20.1,"B757, B787",Inactive,Full-time,100
+10271,Lisa Jackson,Flight Attendant,DFW,2022-12-07,1.1,B737,Active,Full-time,90
+10272,Eric Nelson,Captain,DFW,2014-03-12,9.8,A320,Active,Full-time,100
+10273,Ashley Adams,Flight Attendant,DFW,2011-12-24,12.0,A320,Active,Full-time,90
+10274,Jennifer Rodriguez,Flight Attendant,DFW,2018-10-08,5.2,B757,Active,Full-time,90
+10275,Andrew James,Captain,DFW,2016-05-06,7.7,"B757, A320, B767",Active,Full-time,100
+10276,Scott Green,Flight Attendant,DFW,2023-04-13,0.7,B767,Active,Full-time,90
+10277,Edward Lee,Captain,DFW,1997-12-12,26.1,B767,Active,Full-time,100
+10278,Patricia Green,Flight Attendant,DFW,2021-07-08,2.5,A320,Active,Part-time,90
+10279,Betty Clark,First Officer,DFW,2014-04-22,9.7,A320,Leave,Full-time,100
+10280,Matthew Ward,Senior FA,DFW,2001-02-24,22.9,A321,Active,Full-time,90
+10281,William Nguyen,First Officer,DFW,2022-02-09,1.9,"B787, B767",Active,Part-time,100
+10282,Rebecca Robinson,Captain,DFW,2003-01-24,21.0,B757,Active,Full-time,100
+10283,Margaret Collins,First Officer,DFW,2019-08-11,4.4,"A320, A321",Active,Part-time,100
+10284,Jennifer Taylor,Flight Attendant,DFW,2020-12-24,3.0,B737,Active,Part-time,90
+10285,Edward Scott,Flight Attendant,DFW,2018-01-25,5.9,A321,Active,Full-time,90
+10286,Emily Green,Senior FA,DFW,2015-11-15,8.1,A321,Active,Full-time,90
+10287,Jeffrey Bailey,First Officer,DFW,2019-09-04,4.3,B757,Active,Full-time,100
+10288,Kathleen Allen,Flight Attendant,DFW,2022-02-25,1.9,A321,Active,Full-time,90
+10289,Eric Ward,Senior FA,DFW,2012-01-10,12.0,B787,Active,Part-time,90
+10290,Brenda Baker,Flight Attendant,DFW,2019-11-15,4.1,B757,Active,Full-time,90
+10291,Emma Lopez,First Officer,DFW,2017-11-21,6.1,"A320, B737",Active,Full-time,100
+10292,Rebecca Jackson,First Officer,DFW,2022-01-09,2.0,B767,Active,Full-time,100
+10293,Sarah Jackson,Flight Attendant,DFW,2022-08-17,1.4,B767,Active,Full-time,90
+10294,Angela Green,Flight Attendant,DFW,2017-03-05,6.8,B767,Training,Full-time,90
+10295,Andrew Cruz,Flight Attendant,DFW,2019-08-18,4.4,A320,Active,Full-time,90
+10296,Christopher Gomez,Flight Attendant,DFW,2007-09-12,16.3,B737,Active,Full-time,90
+10297,Jacob Johnson,First Officer,DFW,2016-11-11,7.1,"B787, A321, A320",Active,Full-time,100
+10298,George Howard,Senior FA,DFW,2006-04-22,17.7,B767,Active,Full-time,90
+10299,Barbara Mitchell,Senior FA,DFW,2007-09-21,16.3,A320,Active,Full-time,90
+10300,Justin Clark,Flight Attendant,DFW,2009-02-12,14.9,B757,Active,Full-time,90
+10301,Matthew Phillips,Captain,DFW,2009-12-04,14.1,"A321, B767",Active,Full-time,100
+10302,Stephanie Martinez,Captain,DFW,2014-01-05,10.0,B737,Active,Full-time,100
+10303,Eric Davis,Senior FA,DFW,2013-07-26,10.4,B787,Active,Full-time,90
+10304,Jacob Johnson,Captain,DFW,2005-05-19,18.6,"B767, B757",Active,Full-time,100
+10305,Lisa Reed,Flight Attendant,DFW,2019-10-10,4.2,B737,Active,Full-time,90
+10306,James Nguyen,First Officer,DFW,2020-05-11,3.6,"A320, B737",Active,Full-time,100
+10307,Andrew Howard,Captain,DFW,2010-02-11,13.9,"B787, B737",Active,Full-time,100
+10308,Deborah Young,First Officer,DFW,2022-02-20,1.9,"B737, A320",Leave,Full-time,100
+10309,Gary Rodriguez,Flight Attendant,DFW,2021-07-26,2.4,A320,Training,Full-time,90
+10310,Donald Torres,Captain,DFW,2012-06-26,11.5,"B787, B757",Active,Full-time,100
+10311,Lisa Perez,Flight Attendant,DFW,2013-11-05,10.2,B787,Active,Full-time,90
+10312,Ashley Hernandez,Flight Attendant,DFW,2021-12-08,2.1,B737,Active,Full-time,90
+10313,Christopher Kelly,First Officer,DFW,2023-03-21,0.8,B757,Active,Full-time,100
+10314,Stephanie Carter,Flight Attendant,DFW,2021-09-01,2.3,B787,Active,Part-time,90
+10315,Kathleen Carter,Flight Attendant,DFW,2016-08-21,7.4,B787,Active,Full-time,90
+10316,Karen Harris,Senior FA,DFW,2006-05-28,17.6,B757,Active,Full-time,90
+10317,Larry James,Flight Attendant,DFW,2011-11-10,12.2,A320,Active,Full-time,90
+10318,Stephanie Gomez,Flight Attendant,DFW,2020-04-12,3.7,B787,Active,Part-time,90
+10319,George Reyes,Captain,DFW,2001-04-26,22.7,B757,Active,Full-time,100
+10320,Dorothy Johnson,First Officer,DFW,2021-05-20,2.6,"B737, B757",Active,Part-time,100
+10321,Patricia Wood,Flight Attendant,DFW,2019-05-12,4.6,B767,Active,Full-time,90
+10322,Jacob Diaz,Flight Attendant,DFW,2015-10-02,8.3,B787,Active,Full-time,90
+10323,Shirley Scott,Flight Attendant,DFW,2015-04-15,8.7,B767,Active,Full-time,90
+10324,Carol Rogers,Senior FA,DFW,1998-02-19,25.9,B737,Active,Full-time,90
+10325,Jessica Thompson,Senior FA,DFW,2008-04-07,15.7,B737,Active,Full-time,90
+10326,Daniel Gonzalez,Flight Attendant,DFW,2021-02-21,2.9,A320,Active,Full-time,90
+10327,Helen Allen,Flight Attendant,DFW,2014-11-30,9.1,B737,Active,Part-time,90
+10328,Larry Gray,Flight Attendant,DFW,2017-07-11,6.5,B767,Active,Full-time,90
+10329,Jessica Nelson,Senior FA,DFW,2017-04-05,6.7,B787,Training,Full-time,90
+10330,Scott Rogers,Senior FA,DFW,2005-12-13,18.1,B737,Active,Full-time,90
+10331,Betty Carter,Senior FA,DFW,2002-09-13,21.3,B757,Active,Full-time,90
+10332,Christopher Nelson,Flight Attendant,DFW,2013-08-09,10.4,A320,Active,Full-time,90
+10333,Jeffrey Ramirez,Flight Attendant,DFW,2006-05-27,17.6,B757,Leave,Part-time,90
+10334,Scott Lee,Flight Attendant,DFW,2016-03-04,7.8,A321,Active,Full-time,90
+10335,Larry Brown,Flight Attendant,DFW,2014-09-26,9.3,A320,Active,Full-time,90
+10336,Carol Martin,Flight Attendant,DFW,2022-07-28,1.4,A321,Active,Full-time,90
+10337,Laura Sanchez,Senior FA,DFW,1991-12-12,32.1,B767,Active,Full-time,90
+10338,Deborah Cooper,Flight Attendant,DFW,2018-03-20,5.8,B767,Active,Full-time,90
+10339,Edward Torres,Flight Attendant,DFW,2021-08-05,2.4,A320,Leave,Full-time,90
+10340,Shirley Adams,Senior FA,DFW,2008-01-22,16.0,B757,Training,Full-time,90
+10341,Rebecca Martinez,Senior FA,DFW,2009-05-25,14.6,B737,Active,Full-time,90
+10342,Ashley Carter,Captain,DFW,2001-03-07,22.8,A321,Active,Full-time,100
+10343,Margaret Johnson,First Officer,DFW,2023-07-03,0.5,"B737, A321, B787",Active,Part-time,100
+10344,Angela Taylor,Senior FA,DFW,2004-02-27,19.9,B737,Active,Full-time,90
+10345,Carol Taylor,Flight Attendant,DFW,2010-04-26,13.7,A320,Active,Full-time,90
+10346,Brandon Cruz,Senior FA,DFW,2013-11-06,10.2,B767,Active,Full-time,90
+10347,Angela Gonzalez,Flight Attendant,DFW,2007-12-11,16.1,B787,Active,Full-time,90
+10348,Linda Hill,Senior FA,DFW,2006-01-22,18.0,A321,Active,Full-time,90
+10349,Katherine Perez,Senior FA,DFW,2014-06-14,9.6,B737,Active,Full-time,90
+10350,Jacob Bennett,Flight Attendant,DFW,2014-04-13,9.7,A321,Active,Full-time,90
+10351,Margaret Brown,Flight Attendant,LAX,2017-04-14,6.7,A320,Leave,Full-time,90
+10352,Brandon Taylor,Captain,LAX,2006-11-15,17.1,"B767, B757",Active,Full-time,100
+10353,Charles Robinson,First Officer,LAX,2018-06-08,5.6,"B757, B767",Active,Full-time,100
+10354,Carol Anderson,Senior FA,LAX,2006-02-22,17.9,B787,Active,Full-time,90
+10355,Scott Cruz,Senior FA,LAX,2006-08-08,17.4,B767,Inactive,Full-time,90
+10356,Amanda Cooper,First Officer,LAX,1989-01-09,35.0,"A320, B757",Active,Full-time,100
+10357,Joshua Bailey,Captain,LAX,1995-02-26,28.9,"B737, B757",Active,Full-time,100
+10358,Nicholas Ramirez,Flight Attendant,LAX,2014-11-10,9.1,B787,Active,Part-time,90
+10359,Joseph Phillips,Flight Attendant,LAX,2022-02-27,1.8,B737,Leave,Full-time,90
+10360,Cynthia Ramirez,Flight Attendant,LAX,2016-07-31,7.4,B737,Active,Full-time,90
+10361,Steven Wilson,First Officer,LAX,2014-01-26,9.9,A321,Active,Full-time,100
+10362,Shirley Martinez,Flight Attendant,LAX,2020-08-08,3.4,B737,Active,Full-time,90
+10363,Rebecca Lopez,Captain,LAX,2013-05-13,10.6,"B787, B757",Active,Full-time,100
+10364,Ronald Cooper,Senior FA,LAX,2011-10-23,12.2,B767,Active,Full-time,90
+10365,Michael Cox,Flight Attendant,LAX,2017-07-14,6.5,A321,Active,Full-time,90
+10366,Shirley Kelly,Senior FA,LAX,2013-10-08,10.2,A321,Leave,Full-time,90
+10367,Cynthia Rogers,Flight Attendant,LAX,2015-12-19,8.0,B787,Active,Full-time,90
+10368,Richard Bennett,Senior FA,LAX,2009-04-19,14.7,A321,Active,Full-time,90
+10369,Cynthia King,Senior FA,LAX,2005-06-03,18.6,B767,Active,Full-time,90
+10370,Amanda Lee,Captain,LAX,2004-08-08,19.4,"B757, A320",Active,Full-time,100
+10371,Barbara Wright,Flight Attendant,LAX,2020-09-01,3.3,B767,Active,Full-time,90
+10372,Amy Garcia,First Officer,LAX,2017-03-13,6.8,"B757, A320",Active,Full-time,100
+10373,Linda Taylor,Flight Attendant,LAX,2019-07-15,4.5,B737,Active,Full-time,90
+10374,Christopher Martin,Senior FA,LAX,2013-11-23,10.1,B757,Active,Full-time,90
+10375,Donna Gonzalez,Flight Attendant,LAX,2013-01-16,11.0,B757,Training,Full-time,90
+10376,George Ramirez,Flight Attendant,LAX,2020-03-13,3.8,B737,Active,Full-time,90
+10377,Ryan Cruz,Flight Attendant,LAX,2020-10-27,3.2,A320,Leave,Part-time,90
+10378,George Thompson,Flight Attendant,LAX,2017-11-01,6.2,A321,Active,Full-time,90
+10379,Justin Watson,Senior FA,LAX,2001-06-09,22.6,B737,Active,Full-time,90
+10380,Brenda Hughes,Flight Attendant,LAX,2018-06-11,5.6,A320,Training,Part-time,90
+10381,Robert Rodriguez,Flight Attendant,LAX,2012-01-16,12.0,A321,Active,Full-time,90
+10382,Timothy Ward,Flight Attendant,LAX,2022-04-27,1.7,A321,Active,Full-time,90
+10383,Kevin Harris,First Officer,LAX,2023-07-03,0.5,B767,Active,Full-time,100
+10384,William Hughes,Flight Attendant,LAX,2012-05-12,11.6,A321,Active,Part-time,90
+10385,Timothy Mitchell,First Officer,LAX,2020-12-20,3.0,"A320, B787",Training,Full-time,100
+10386,William Reed,Flight Attendant,LAX,2019-05-29,4.6,B787,Active,Full-time,90
+10387,Ashley Campbell,First Officer,LAX,2021-01-25,2.9,"B767, B757",Training,Full-time,100
+10388,Jonathan Anderson,Senior FA,LAX,2009-06-04,14.6,A320,Active,Full-time,90
+10389,Karen Moore,First Officer,LAX,2022-06-05,1.6,"B787, B757",Active,Full-time,100
+10390,Sharon Scott,Captain,LAX,2009-03-08,14.8,B737,Active,Part-time,100
+10391,Scott Torres,Captain,LAX,2007-12-14,16.1,"A321, B767",Active,Full-time,100
+10392,Steven Wright,Captain,LAX,2014-02-04,9.9,"B767, A320, B787",Inactive,Part-time,100
+10393,Karen Thomas,Flight Attendant,LAX,2020-06-06,3.6,B737,Active,Full-time,90
+10394,Jessica Hughes,First Officer,LAX,2015-09-17,8.3,"A320, B757",Active,Full-time,100
+10395,Jonathan Lopez,Senior FA,LAX,2005-07-10,18.5,A321,Training,Full-time,90
+10396,Jennifer Morgan,Captain,LAX,2013-09-24,10.3,"B787, B767, A321",Active,Full-time,100
+10397,Katherine King,Senior FA,LAX,2001-10-05,22.3,B767,Active,Full-time,90
+10398,Nancy Hill,First Officer,LAX,2022-06-26,1.5,B767,Active,Full-time,100
+10399,Ashley White,Flight Attendant,LAX,2011-01-29,12.9,A320,Active,Full-time,90
+10400,George Scott,First Officer,LAX,2023-07-03,0.5,"B737, B767",Active,Full-time,100
+10401,Jacob Ward,Flight Attendant,LAX,2022-12-25,1.0,B787,Active,Full-time,90
+10402,Deborah Young,Flight Attendant,LAX,2014-10-20,9.2,B757,Active,Full-time,90
+10403,Brian Walker,Flight Attendant,LAX,2019-04-15,4.7,B737,Active,Full-time,90
+10404,Anthony Perez,First Officer,LAX,2015-03-31,8.8,B757,Active,Full-time,100
+10405,Jonathan Bell,Flight Attendant,LAX,2020-07-05,3.5,A320,Active,Part-time,90
+10406,Robert Morgan,First Officer,LAX,2023-07-03,0.5,B737,Active,Full-time,100
+10407,Joseph Morgan,Captain,LAX,1996-11-04,27.2,"B737, B787",Active,Full-time,100
+10408,Sandra Thompson,Flight Attendant,LAX,2015-10-06,8.2,A320,Active,Full-time,90
+10409,Mark Hernandez,Flight Attendant,LAX,2021-08-20,2.4,B757,Active,Full-time,90
+10410,Emma Rogers,Captain,LAX,2009-05-01,14.7,"B767, A321",Active,Part-time,100
+10411,Ryan Brown,Captain,LAX,2002-12-11,21.1,"B757, B767, B737",Active,Full-time,100
+10412,Ryan Sanchez,First Officer,LAX,2015-07-06,8.5,"A321, B787",Active,Full-time,100
+10413,George Reyes,Flight Attendant,LAX,2021-07-09,2.5,A321,Active,Part-time,90
+10414,Michelle Bailey,Flight Attendant,LAX,2019-04-01,4.8,A321,Active,Full-time,90
+10415,Sharon Allen,Flight Attendant,LAX,2018-04-23,5.7,A320,Active,Full-time,90
+10416,Rebecca Wood,Captain,LAX,2006-08-02,17.4,B787,Active,Full-time,100
+10417,Karen Campbell,Captain,LAX,2011-09-19,12.3,"A321, B737",Active,Full-time,100
+10418,Dorothy Robinson,Senior FA,LAX,2012-09-08,11.3,B787,Active,Full-time,90
+10419,Betty Jackson,First Officer,LAX,2022-09-09,1.3,"A320, B737",Active,Full-time,100
+10420,Mark Hill,Flight Attendant,LAX,2021-12-26,2.0,B767,Active,Part-time,90
+10421,Michelle Torres,Senior FA,LAX,2013-06-29,10.5,B737,Active,Part-time,90
+10422,Margaret Gomez,Senior FA,LAX,2012-02-10,11.9,B737,Active,Full-time,90
+10423,Margaret Young,Senior FA,LAX,2001-02-08,22.9,B757,Active,Full-time,90
+10424,Robert Martinez,Senior FA,LAX,2006-02-25,17.9,A320,Active,Full-time,90
+10425,Jonathan Hall,First Officer,LAX,2020-10-24,3.2,"B737, B757",Active,Full-time,100
+10426,Larry Green,Flight Attendant,LAX,2019-07-07,4.5,B787,Active,Part-time,90
+10427,Samantha Green,Senior FA,LAX,2020-06-23,3.5,A320,Inactive,Full-time,90
+10428,Lisa Rogers,Captain,LAX,2000-03-10,23.8,"A320, B787",Active,Full-time,100
+10429,Patricia Garcia,Captain,LAX,2001-10-25,22.2,"B767, A321",Active,Part-time,100
+10430,Anna Watson,Flight Attendant,LAX,2011-06-28,12.5,B757,Active,Full-time,90
+10431,Sarah Hall,Flight Attendant,LAX,2015-02-20,8.9,B787,Inactive,Full-time,90
+10432,Christopher Ramirez,First Officer,LAX,2019-03-11,4.8,B737,Active,Full-time,100
+10433,Andrew Morgan,Flight Attendant,LAX,2021-06-30,2.5,B737,Inactive,Full-time,90
+10434,Shirley Nelson,Senior FA,LAX,2007-03-03,16.8,A320,Active,Full-time,90
+10435,Timothy Flores,Flight Attendant,LAX,2016-01-13,8.0,B757,Active,Full-time,90
+10436,Carol Hall,First Officer,LAX,2018-06-23,5.5,B757,Active,Full-time,100
+10437,Scott Nguyen,Flight Attendant,LAX,2020-05-23,3.6,B767,Active,Full-time,90
+10438,Andrew Cooper,Captain,LAX,2013-03-07,10.8,A320,Active,Full-time,100
+10439,Karen Collins,Flight Attendant,LAX,2019-03-05,4.8,B767,Active,Full-time,90
+10440,Barbara Lee,Senior FA,LAX,2018-01-15,6.0,A321,Active,Full-time,90
+10441,Justin Anderson,Flight Attendant,JFK,2021-04-27,2.7,B767,Active,Full-time,90
+10442,Michael Martin,First Officer,JFK,2018-03-11,5.8,B787,Active,Full-time,100
+10443,David Hernandez,Flight Attendant,JFK,2018-10-07,5.2,B787,Leave,Full-time,90
+10444,Maria Morris,First Officer,JFK,2018-09-17,5.3,"B787, B767, B757",Active,Full-time,100
+10445,Nancy Stewart,Senior FA,JFK,2001-05-04,22.7,B787,Active,Full-time,90
+10446,Shirley Ward,Captain,JFK,2006-10-16,17.2,"B787, B737",Active,Full-time,100
+10447,Ronald Miller,First Officer,JFK,2022-11-30,1.1,"A321, B757",Leave,Full-time,100
+10448,Charles Reed,Captain,JFK,2013-04-14,10.7,"B737, A321, B757",Active,Full-time,100
+10449,Deborah White,Senior FA,JFK,2007-11-27,16.1,A320,Active,Full-time,90
+10450,Daniel Collins,First Officer,JFK,2017-04-04,6.7,B787,Active,Part-time,100
+10451,Cynthia Howard,Flight Attendant,JFK,2015-08-10,8.4,B757,Active,Full-time,90
+10452,Kevin Brooks,Flight Attendant,JFK,2016-05-09,7.7,A320,Active,Full-time,90
+10453,Angela Wilson,Flight Attendant,JFK,2022-05-27,1.6,A320,Active,Full-time,90
+10454,Benjamin Reyes,Flight Attendant,JFK,2009-02-27,14.9,B787,Active,Part-time,90
+10455,Joseph Smith,Senior FA,JFK,2002-07-09,21.5,A320,Training,Full-time,90
+10456,Anthony Nguyen,Captain,JFK,1999-05-01,24.7,"B767, B737",Leave,Full-time,100
+10457,Karen Roberts,Captain,JFK,2013-02-27,10.9,"B757, B767, B737",Active,Full-time,100
+10458,Barbara Hughes,Flight Attendant,JFK,2023-07-03,0.5,B787,Active,Full-time,90
+10459,Shirley Perez,Senior FA,JFK,2004-08-01,19.4,B757,Active,Full-time,90
+10460,Linda Brown,Senior FA,JFK,2010-07-23,13.5,A320,Active,Full-time,90
+10461,Cynthia Gonzalez,First Officer,JFK,2018-06-30,5.5,B737,Active,Full-time,100
+10462,Dorothy Cook,Captain,JFK,2011-02-17,12.9,"A320, B787",Active,Full-time,100
+10463,Daniel James,Captain,JFK,2013-01-18,11.0,B767,Active,Full-time,100
+10464,Michelle Richardson,Senior FA,JFK,2002-12-25,21.0,B737,Active,Full-time,90
+10465,Donald Green,First Officer,JFK,2021-06-18,2.5,B787,Active,Part-time,100
+10466,Benjamin Morris,Flight Attendant,JFK,2021-05-29,2.6,A320,Active,Full-time,90
+10467,James Lee,Captain,JFK,2014-07-06,9.5,"B757, B767, B787",Active,Full-time,100
+10468,Jacob Thompson,Senior FA,JFK,2007-11-10,16.2,B767,Training,Part-time,90
+10469,Jennifer Roberts,Senior FA,JFK,2009-04-27,14.7,B737,Active,Full-time,90
+10470,Lisa Garcia,First Officer,JFK,2001-11-07,22.2,"B767, A321",Active,Full-time,100
+10471,Michelle Cruz,Flight Attendant,JFK,2020-05-06,3.7,B787,Active,Full-time,90
+10472,Kathleen Young,Flight Attendant,JFK,2019-06-21,4.5,A320,Active,Full-time,90
+10473,Nicole Reed,Flight Attendant,JFK,2007-07-17,16.5,B737,Active,Full-time,90
+10474,Jacob Cook,Flight Attendant,JFK,2015-11-15,8.1,A321,Active,Full-time,90
+10475,Kevin Hall,First Officer,JFK,2012-02-15,11.9,"A320, A321",Active,Full-time,100
+10476,Angela Rodriguez,Flight Attendant,JFK,2022-03-08,1.8,B757,Active,Full-time,90
+10477,Lisa Adams,First Officer,JFK,2018-04-21,5.7,"A320, B737",Active,Full-time,100
+10478,Timothy Rodriguez,Captain,JFK,2014-10-21,9.2,A320,Training,Full-time,100
+10479,Jason Williams,First Officer,JFK,2022-11-11,1.1,A321,Training,Full-time,100
+10480,Emma Phillips,First Officer,JFK,2019-01-09,5.0,"B757, A321",Active,Full-time,100
+10481,Emma Lewis,Flight Attendant,JFK,2023-01-28,0.9,B767,Active,Full-time,90
+10482,Sandra Hall,Flight Attendant,JFK,2013-09-29,10.3,A321,Active,Full-time,90
+10483,Sandra Lee,First Officer,JFK,2018-09-13,5.3,"A321, B767",Active,Full-time,100
+10484,Nancy Rogers,First Officer,JFK,2021-11-22,2.1,A320,Active,Full-time,100
+10485,Margaret Moore,Senior FA,JFK,1995-03-14,28.8,A321,Active,Part-time,90
+10486,Jacob Ward,First Officer,JFK,2019-04-13,4.7,"A320, B737",Active,Full-time,100
+10487,Richard Nguyen,First Officer,JFK,2022-05-17,1.6,"B787, A320",Active,Full-time,100
+10488,Jennifer Taylor,Senior FA,JFK,2011-04-16,12.7,B737,Active,Full-time,90
+10489,Christopher Johnson,Captain,JFK,2007-11-30,16.1,"B767, A320",Leave,Full-time,100
+10490,Patricia Hernandez,Captain,JFK,2018-05-16,5.6,B757,Active,Full-time,100
+10491,Daniel Roberts,Captain,JFK,2004-05-30,19.6,"A321, B767",Active,Full-time,100
+10492,Melissa Watson,Captain,JFK,2006-01-02,18.0,A321,Active,Full-time,100
+10493,Kenneth Allen,Senior FA,JFK,2009-09-02,14.3,B787,Active,Full-time,90
+10494,Amanda Young,Flight Attendant,JFK,2019-12-25,4.0,B767,Active,Full-time,90
+10495,Timothy Allen,Senior FA,JFK,1999-05-14,24.7,B737,Training,Full-time,90
+10496,Jason Martinez,First Officer,JFK,2019-08-17,4.4,"B737, B767, A320",Active,Part-time,100
+10497,Matthew Collins,Flight Attendant,JFK,2015-09-27,8.3,B787,Active,Full-time,90
+10498,Donald Williams,Captain,JFK,1989-01-09,35.0,B767,Active,Full-time,100
+10499,William Sanchez,Senior FA,JFK,2005-04-03,18.8,B787,Active,Full-time,90
+10500,Sharon Gray,Senior FA,JFK,1989-01-09,35.0,B757,Active,Full-time,90
