@@ -1,0 +1,11 @@
+base,forecast_month,weeks_ahead,current_available,projected_available,min_threshold,gap_vs_threshold,trend_per_month,fatigue_drag_pct,shortage_flag,risk_level
+ORD,2024-06,4,73,73.0,85,-12.0,-0.31,0,True,AT RISK
+ORD,2024-07,8,73,72.7,85,-12.3,-0.31,0,True,AT RISK
+ATL,2024-06,4,86,85.9,80,5.9,-0.74,0,False,WATCH
+ATL,2024-07,8,86,85.2,80,5.2,-0.74,0,False,WATCH
+DFW,2024-06,4,69,69.5,65,4.5,0.17,0,False,WATCH
+DFW,2024-07,8,69,69.7,65,4.7,0.17,0,False,WATCH
+LAX,2024-06,4,66,66.1,60,6.1,0.11,0,False,OK
+LAX,2024-07,8,66,66.2,60,6.2,0.11,0,False,OK
+JFK,2024-06,4,38,37.3,38,-0.7,-0.74,0,True,AT RISK
+JFK,2024-07,8,38,36.5,38,-1.5,-0.74,0,True,AT RISK
