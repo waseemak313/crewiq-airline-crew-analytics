@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Airlines operate one of the most complex workforce systems in any industry. Crew members must be scheduled months in advance, comply with FAA/ICAO duty time regulations, maintain aircraft-type qualifications, and be recoverable within hours when disruptions hit. Even small inefficiencies — an understaffed base, a chronic Monday callout pattern, a fatigue-heavy pairing — cost airlines millions annually.
 
@@ -16,7 +16,7 @@ Airlines operate one of the most complex workforce systems in any industry. Crew
 
 ---
 
-## 🗂️ Repository Structure
+##  Repository Structure
 
 ```
 crewiq-airline-crew-analytics/
@@ -49,7 +49,7 @@ crewiq-airline-crew-analytics/
 
 ---
 
-## 📊 Dataset Overview
+## Dataset Overview
 
 All data is synthetically generated using realistic airline industry distributions. No proprietary or PII data is used.
 
@@ -68,7 +68,7 @@ All data is synthetically generated using realistic airline industry distributio
 
 ---
 
-## 🔍 Key Findings
+## Key Findings
 
 1. **ORD Monday callout rate is 2.1× the network average**, concentrated in red-eye pairing types. Adjusting Sunday pairing cutoff times is projected to reduce Monday callouts by ~18%.
 
@@ -80,7 +80,7 @@ All data is synthetically generated using realistic airline industry distributio
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Tools |
 |---|---|
@@ -93,7 +93,7 @@ All data is synthetically generated using realistic airline industry distributio
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 # Clone the repo
@@ -113,7 +113,7 @@ sqlite3 crewiq.db < sql/02_crew_availability.sql
 
 ---
 
-## 💼 Business Context
+## Business Context
 
 This project is designed to mirror the analytical scope of a **Crew Strategy & Intelligence** role at a major airline. The core questions it answers are:
 
@@ -126,7 +126,7 @@ These are the exact questions that fuel scheduling adjustments, reserve policy c
 
 ---
 
-## 📄 License
+## License
 
 MIT License — free to use, adapt, and build on.
 
